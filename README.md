@@ -5,6 +5,7 @@
 •	Nihayetinde L kelimelerin dilini üretebilme kabiliyetine sahip ve ekranda kullanıcının istediği kadar kelimeyi görüntüleyen program kodunu üretiniz.
 •	Not: Düzenli ifadenin alfabeden üretilebilir olmasını kontrol etmelidir!
 •	Not: Verilen kelimenin L diline ait olup olmadığını kontrol edebilen ödevlere bonus verilecektir!
+
 •	Örnek:
 •	Alfabeyi giriniz S={ a,b<ENTER>}
 •	Düzenli ifadeyi giriniz: (a+b)*a <ENTER>
